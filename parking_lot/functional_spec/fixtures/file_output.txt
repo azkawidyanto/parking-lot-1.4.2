@@ -1,0 +1,22 @@
+Created a parking lot with 6 slots 
+Allocated Slot Number: 1
+Allocated Slot Number: 2
+Allocated Slot Number: 3
+Allocated Slot Number: 4
+Allocated Slot Number: 5
+Allocated Slot Number: 6
+Slot number 4 is free
+Slot No. Registration No. Colour
+1        KA-01-HH-1234     White
+    
+2        KA-01-HH-9999     White
+    
+3        KA-01-BB-0001     Black
+    
+5        KA-01-HH-2701     Blue
+    
+6        KA-01-HH-3141     Black
+    
+registration_numbers_for_cars_with_colour KA-01-HH-1234 KA-01-HH-9999 
+slot_numbers_for_cars_with_colour 1 2 
+slot_number_for_registration_number Not Found
